@@ -6,7 +6,19 @@ function App() {
     <div className="App">
       <h1>Olá, mundo!</h1>
       <p>Este é o meu primeiro app React.</p>
-      
+      <h1>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Aprenda React
+        </a>
+
+        <img src={logo} className="App-logo" alt="logo" />
+        
+      </h1>
     </div>
   );
 }
