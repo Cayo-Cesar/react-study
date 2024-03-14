@@ -13,6 +13,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+
+        <p>Seja bem-vindo ao meu primeiro app React.</p>
+
+        <h1>  Todos os direitos reservados.</h1>
+        
           Aprenda React
         </a>
 
