@@ -18,6 +18,15 @@ function App() {
 
         <h1>  Todos os direitos reservados.</h1>
         
+        <div>
+          <h1>  Aprenda React</h1>
+          <p>
+            <code>src/App.js</code> and save to reload.
+            <code>
+              Edit <code>src/App.js</code> and save to reload.
+            </code>
+          </p>
+        </div>
           Aprenda React
         </a>
 
